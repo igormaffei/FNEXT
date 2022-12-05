@@ -1,0 +1,1 @@
+{"status": "ok", "predictions": [{"index": "0", "caption": "a kitchen with a refrigerator and a window", "probability": 3.577931883643055e-05}, {"index": "1", "caption": "a kitchen with a refrigerator and a table", "probability": 2.8428766445097543e-05}, {"index": "2", "caption": "a kitchen with a refrigerator and a counter", "probability": 1.3390169165371044e-05}]}

@@ -1,0 +1,1 @@
+{"status": "ok", "predictions": [{"index": "0", "caption": "a train on a track near a building", "probability": 0.00022676028151519714}, {"index": "1", "caption": "a train on a track with a sky background", "probability": 9.565210073272775e-05}, {"index": "2", "caption": "a train on a train track with a sky background", "probability": 8.783452418211155e-05}]}

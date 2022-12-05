@@ -1,0 +1,1 @@
+{"status": "ok", "predictions": [{"index": "0", "caption": "a fire hydrant in the middle of a street .", "probability": 0.00010545377141423624}, {"index": "1", "caption": "a fire hydrant in the middle of a sidewalk .", "probability": 7.568528445666667e-05}, {"index": "2", "caption": "a fire hydrant in the middle of a street", "probability": 1.5987369055898957e-05}]}

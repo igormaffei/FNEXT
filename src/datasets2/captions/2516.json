@@ -1,0 +1,1 @@
+{"status": "ok", "predictions": [{"index": "0", "caption": "a man holding a baseball bat on a field .", "probability": 0.0005748862181218005}, {"index": "1", "caption": "a man holding a baseball bat on a baseball field .", "probability": 0.000325832015978583}, {"index": "2", "caption": "a man holding a baseball bat on a field", "probability": 6.36007416441224e-05}]}

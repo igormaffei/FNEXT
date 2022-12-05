@@ -1,0 +1,1 @@
+{"status": "ok", "predictions": [{"index": "0", "caption": "a car is parked on the side of the road .", "probability": 0.00045688467798864397}, {"index": "1", "caption": "a car is parked in front of a parking meter .", "probability": 0.00032942438436876163}, {"index": "2", "caption": "a car is parked on the side of the street .", "probability": 0.00030397889942396954}]}

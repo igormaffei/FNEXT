@@ -1,0 +1,1 @@
+{"status": "ok", "predictions": [{"index": "0", "caption": "a car driving down a road next to a stop sign .", "probability": 6.74267063248882e-05}, {"index": "1", "caption": "a car driving down a road next to a traffic light .", "probability": 6.352764315326096e-05}, {"index": "2", "caption": "a car driving down a road with a stop sign .", "probability": 2.073266792634029e-05}]}

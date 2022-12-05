@@ -1,0 +1,1 @@
+{"status": "ok", "predictions": [{"index": "0", "caption": "a view of a window from inside a train .", "probability": 1.682203254211709e-05}, {"index": "1", "caption": "a view of a window from inside a building .", "probability": 1.662915194130923e-05}, {"index": "2", "caption": "a view of a window from inside a window .", "probability": 1.435469530297851e-05}]}

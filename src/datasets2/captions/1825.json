@@ -1,0 +1,1 @@
+{"status": "ok", "predictions": [{"index": "0", "caption": "a street sign on the side of a road .", "probability": 0.00014812560577746008}, {"index": "1", "caption": "a street sign on the side of a street .", "probability": 0.00010929812201789343}, {"index": "2", "caption": "a street sign on the side of the road", "probability": 4.2849706498253484e-05}]}

@@ -1,0 +1,1 @@
+{"status": "ok", "predictions": [{"index": "0", "caption": "a black and white photo of a brick wall", "probability": 4.2804830312109783e-05}, {"index": "1", "caption": "a black and white photo of a <UNK>", "probability": 2.1996937965610513e-05}, {"index": "2", "caption": "a black and white photo of a brick building", "probability": 1.1311381751637377e-05}]}

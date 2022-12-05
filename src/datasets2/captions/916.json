@@ -1,0 +1,1 @@
+{"status": "ok", "predictions": [{"index": "0", "caption": "a man wearing a suit and tie with a white shirt .", "probability": 9.635146950513688e-06}, {"index": "1", "caption": "a man in a suit and tie with a <UNK>", "probability": 8.722719883452275e-06}, {"index": "2", "caption": "a man wearing a suit and tie with a white shirt", "probability": 8.295159101034054e-06}]}
